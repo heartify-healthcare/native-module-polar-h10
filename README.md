@@ -47,7 +47,7 @@ This project uses a local Expo Module (`modules/polar-ecg-module`) to bridge the
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/votranphi/native-module-polar-h10
+    git clone https://github.com/heartify-healthcare/native-module-polar-h10
     ```
 
 2.  **Install dependencies:**
